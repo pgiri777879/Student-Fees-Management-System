@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstname": "rahul",
+      "lastname": "roy",
+      "email": "rahul@gmail.com",
+      "mobile": "998745632",
+      "fees": "6000"
+    },
+    {
+      "id": 4,
+      "firstname": "parsh",
+      "lastname": "giri",
+      "email": "parsh@hmail.com",
+      "mobile": "9874589632",
+      "fees": "9000"
+    },
+    {
+      "id": 5,
+      "firstname": "pankaj",
+      "lastname": "giri",
+      "email": "pankaj789@gmail.com",
+      "mobile": "986574123",
+      "fees": "10000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "mobile": "",
+      "fees": ""
+    },
+    {
+      "id": 3,
+      "firstname": "rahul",
+      "lastname": "",
+      "email": "",
+      "mobile": "",
+      "fees": ""
+    },
+    {
+      "id": 4,
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "mobile": "",
+      "fees": ""
+    },
+    {
+      "id": 5,
+      "firstname": "rahul",
+      "lastname": "roy",
+      "email": "rahul@gmail.com",
+      "mobile": "987456321",
+      "fees": "20000"
+    },
+    {
+      "id": 6,
+      "firstname": "rohit",
+      "lastname": "patil",
+      "email": "abc@gmail.com",
+      "mobile": "963258741",
+      "fees": "30000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
